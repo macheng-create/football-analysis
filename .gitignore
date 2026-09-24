@@ -1,0 +1,7 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+_backup/
+reports/
+analysis_history/
